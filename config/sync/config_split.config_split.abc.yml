@@ -1,0 +1,17 @@
+uuid: 5812813a-0a15-4ebd-aadf-afe9b837fdd0
+langcode: en
+status: true
+dependencies: {  }
+id: abc
+label: abc
+description: ''
+folder: ../config/abc
+module:
+  big_pipe: 0
+  color: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0

@@ -781,5 +781,5 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 $settings['config_sync_directory'] = '../config/sync';
-//$settings['abc'] = '../config/abc';
-//$config['config_split.config_split.abc']['folder'] = '../config/abc';
+$settings['abc'] = '../config/abc';
+$config['config_split.config_split.abc']['folder'] = '../config/abc';

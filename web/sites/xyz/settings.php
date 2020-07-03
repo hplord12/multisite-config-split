@@ -782,5 +782,5 @@ $databases['default']['default'] = array (
 );
 //$settings['config_sync_directory'] = 'sites/xyz/files/config_PcnZ9m0lGejdpmdX0R_kOJfevkDYrOWrieepo198VUnq-AEEFuJ7KYxfEyf3EQ7-dFGp3AQlbQ/sync';
 $settings['config_sync_directory'] = '../config/sync';
-//$settings['xyz'] = '../config/xyz';
-//$config['config_split.config_split.xyz']['folder'] = '../config/xyz';
+$settings['xyz'] = '../config/xyz';
+$config['config_split.config_split.xyz']['folder'] = '../config/xyz';

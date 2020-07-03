@@ -1,0 +1,17 @@
+uuid: 97ce3b04-3e8f-43fe-baea-fe35e8ba96b4
+langcode: en
+status: true
+dependencies: {  }
+id: xyz
+label: xyz
+description: ''
+folder: ../config/xyz
+module:
+  help: 0
+  views_ui: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
